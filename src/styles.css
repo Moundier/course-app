@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body, :root {
+    margin: 0;
+    padding: 0;
+}
+
+html, body, :root {
+    color-scheme: dark;
+    background-color: #000;
+}
+
+html, body, :root {
+    
+    font-family:
+        sans-serif, 
+        Verdana, 
+        Geneva, 
+        Tahoma;
+}
+
+/* Material Icons */
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0");

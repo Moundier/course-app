@@ -1,0 +1,20 @@
+.main {
+    display: flex;
+    height: 100vh; 
+    overflow: hidden;
+}
+app-side-bar {
+    width: 300px;
+}
+app-header {
+    flex: 1;
+}
+app-header, app-side-bar {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+app-side-bar {
+    background-color: #fff;
+}
+
+

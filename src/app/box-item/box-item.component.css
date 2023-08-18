@@ -1,0 +1,12 @@
+div {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+span {
+    /* icon size */
+    font-size: 40px;
+}
+p {
+    margin-left: 20px;
+}
